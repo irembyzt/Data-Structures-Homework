@@ -29,7 +29,7 @@ gerçekleştirilmiştir.
 - Max Heap: En büyük eleman kökte
 - Min Heap: En küçük eleman kökte
 
-  # Double Linked List
+# Double Linked List
 
 Bu program, çift bağlı liste (Double Linked List) veri yapısını
 C dili kullanarak uygular.
@@ -40,4 +40,41 @@ C dili kullanarak uygular.
 - Düğüm silme
 - Listeyi yazdırma
 
-  
+# Circular Linked List
+
+Bu program, tek bağlı dairesel liste (Circular Linked List)
+veri yapısını C dili ile uygular.
+
+Özellikler:
+- Başa ekleme
+- Sona ekleme
+- Listeyi yazdırma
+
+# Array Insert & Delete
+
+Bu program, dizi üzerinde belirli bir index'e
+eleman ekleme ve silme işlemlerini gerçekleştirir.
+
+Ekleme işleminde elemanlar sağa,
+silme işleminde elemanlar sola kaydırılır.
+
+# Graph Cluster (Connected Component)
+
+Bu program, adjacency matrix kullanarak
+bir graf içerisindeki bağlantılı bileşenleri (cluster)
+DFS algoritması ile bulur.
+
+# DFS & BFS
+
+Bu program, bir graf üzerinde DFS ve BFS
+algoritmalarını uygular.
+DFS recursive olarak,
+BFS ise queue veri yapısı kullanılarak gerçekleştirilmiştir.
+
+# Tree Creation Using Array
+
+Bu program, ikili ağacı dizi (array) kullanarak oluşturur
+ve preorder, inorder, postorder dolaşmalarını gösterir.
+Dizi indeksleri kullanılarak
+parent – left child – right child ilişkisi kurulmuştur.
+
